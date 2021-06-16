@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Simply Clean
 image: /img/coffee.png
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
